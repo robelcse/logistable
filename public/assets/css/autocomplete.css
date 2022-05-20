@@ -1,0 +1,44 @@
+.autocomplete {
+    position: relative;
+}  
+.autocomplete-items {
+	position: absolute;
+	z-index: 99;
+	width: 94%;
+	top: 99%;
+	left: 0;
+	right: 0;
+	max-height: 153px;
+	height: auto;
+	overflow-y: scroll;
+	padding-left: 5px;
+	padding-top: 5px;
+	background: #fff;
+	border: 1px solid #ced4da;
+}
+.autocomplete-items > div {
+	margin-bottom: 3px;
+	padding: 4px 12px;
+	margin-right: 8px;
+	border-radius: 4px;
+    cursor: pointer;
+    transition: all linear .2s;
+}
+.autocomplete-items > div:hover{
+    background-color: #e8f0ee ;
+}
+.product_table_search input{
+    padding-left: 12px; 
+    margin-right: 12px; 
+    height: 33px;
+    font-size: 15px;
+    line-height: 21px;
+    color: #0d0d0d;
+    border-radius: 3px;
+    border: 1px solid rgba(13, 13, 13, 0.462);
+}
+
+.product_table_search .btn:hover{
+    background-color: #e8f0ee!important;
+    color: #1b4c43 !important;
+}

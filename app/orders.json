@@ -1,0 +1,447 @@
+{
+    "id": 7710,
+    "parent_id": 0,
+    "status": "on-hold",
+    "currency": "BDT",
+    "version": "5.8.0",
+    "prices_include_tax": false,
+    "date_created": "2022-01-03T17:06:52",
+    "date_modified": "2022-01-03T17:06:53",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "100.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "1100.00",
+    "total_tax": "0.00",
+    "customer_id": 1,
+    "order_key": "wc_order_hAABLELI98FlC",
+    "billing": {
+        "first_name": "Ali",
+        "last_name": "Hasan",
+        "company": "",
+        "address_1": "Kahaloo, Bogura",
+        "address_2": "",
+        "city": "bogura",
+        "state": "BD-03",
+        "postcode": "",
+        "country": "BD",
+        "email": "mdalihasanpk@gmail.com",
+        "phone": "1234567890"
+    },
+    "shipping": {
+        "first_name": "Ali",
+        "last_name": "Hasan",
+        "company": "",
+        "address_1": "Kahaloo, Bogura",
+        "address_2": "",
+        "city": "bogura",
+        "state": "BD-03",
+        "postcode": "",
+        "country": "BD",
+        "phone": ""
+    },
+    "payment_method": "bacs",
+    "payment_method_title": "Direct bank transfer",
+    "transaction_id": "",
+    "customer_ip_address": "103.114.21.170",
+    "customer_user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.110 Safari\/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "2d184d4aa54e3a3997cf00d07962c51e",
+    "number": "7710",
+    "meta_data": [
+        {
+            "id": 12641,
+            "key": "is_vat_exempt",
+            "value": "no"
+        },
+        {
+            "id": 12645,
+            "key": "_new_order_email_sent",
+            "value": "true"
+        }
+    ],
+    "line_items": [
+        {
+            "id": 67,
+            "name": "MI Bluetooth Speaker Mini",
+            "product_id": 7350,
+            "variation_id": 0,
+            "quantity": 1,
+            "tax_class": "",
+            "subtotal": "1000.00",
+            "subtotal_tax": "0.00",
+            "total": "1000.00",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [],
+            "sku": "",
+            "price": 1000,
+            "parent_name": null
+        }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+        {
+            "id": 68,
+            "method_title": "Sundarban Courier Service",
+            "method_id": "flat_rate",
+            "instance_id": "1",
+            "total": "100.00",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [
+                {
+                    "id": 554,
+                    "key": "Items",
+                    "value": "MI Bluetooth Speaker Mini &times; 1",
+                    "display_key": "Items",
+                    "display_value": "MI Bluetooth Speaker Mini &times; 1"
+                }
+            ]
+        }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-01-03T17:06:52",
+    "date_modified_gmt": "2022-01-03T17:06:53",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "currency_symbol": "\u09f3\u00a0",
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/productforsell.com\/wp-json\/wc\/v3\/orders\/7710"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/productforsell.com\/wp-json\/wc\/v3\/orders"
+            }
+        ],
+        "customer": [
+            {
+                "href": "https:\/\/productforsell.com\/wp-json\/wc\/v3\/customers\/1"
+            }
+        ]
+    }
+}
+
+{
+    "id": 7707,
+    "parent_id": 0,
+    "status": "on-hold",
+    "currency": "BDT",
+    "version": "5.8.0",
+    "prices_include_tax": false,
+    "date_created": "2022-01-03T11:16:42",
+    "date_modified": "2022-01-03T11:16:43",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "100.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "21099.00",
+    "total_tax": "0.00",
+    "customer_id": 1,
+    "order_key": "wc_order_qJm5P4t6OHUgP",
+    "billing": {
+        "first_name": "Ali",
+        "last_name": "Hasan",
+        "company": "",
+        "address_1": "Kahaloo, Bogura",
+        "address_2": "",
+        "city": "bogura",
+        "state": "BD-03",
+        "postcode": "",
+        "country": "BD",
+        "email": "mdalihasanpk@gmail.com",
+        "phone": "1234567890"
+    },
+    "shipping": {
+        "first_name": "Ali",
+        "last_name": "Hasan",
+        "company": "",
+        "address_1": "Kahaloo, Bogura",
+        "address_2": "",
+        "city": "bogura",
+        "state": "BD-03",
+        "postcode": "",
+        "country": "BD",
+        "phone": ""
+    },
+    "payment_method": "bacs",
+    "payment_method_title": "Direct bank transfer",
+    "transaction_id": "",
+    "customer_ip_address": "103.114.21.170",
+    "customer_user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.110 Safari\/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "a052fa232ac83445b884e24bcc4eccb5",
+    "number": "7707",
+    "meta_data": [
+        {
+            "id": 12527,
+            "key": "is_vat_exempt",
+            "value": "no"
+        },
+        {
+            "id": 12531,
+            "key": "_new_order_email_sent",
+            "value": "true"
+        }
+    ],
+    "line_items": [
+        {
+            "id": 61,
+            "name": "Xiaomi Redmi 10 - 6GB\/128GB",
+            "product_id": 7653,
+            "variation_id": 7657,
+            "quantity": 1,
+            "tax_class": "",
+            "subtotal": "20999.00",
+            "subtotal_tax": "0.00",
+            "total": "20999.00",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [
+                {
+                    "id": 502,
+                    "key": "pa_color",
+                    "value": "pebble-white",
+                    "display_key": "Color",
+                    "display_value": "Pebble White"
+                },
+                {
+                    "id": 503,
+                    "key": "pa_variant",
+                    "value": "6gb-128gb",
+                    "display_key": "Variant",
+                    "display_value": "6GB\/128GB"
+                }
+            ],
+            "sku": "",
+            "price": 20999,
+            "parent_name": "Xiaomi Redmi 10"
+        }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+        {
+            "id": 62,
+            "method_title": "Sundarban Courier Service",
+            "method_id": "flat_rate",
+            "instance_id": "1",
+            "total": "100.00",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [
+                {
+                    "id": 509,
+                    "key": "Items",
+                    "value": "Xiaomi Redmi 10 - 6GB\/128GB &times; 1",
+                    "display_key": "Items",
+                    "display_value": "Xiaomi Redmi 10 - 6GB\/128GB &times; 1"
+                }
+            ]
+        }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-01-03T11:16:42",
+    "date_modified_gmt": "2022-01-03T11:16:43",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "currency_symbol": "\u09f3\u00a0",
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/productforsell.com\/wp-json\/wc\/v3\/orders\/7707"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/productforsell.com\/wp-json\/wc\/v3\/orders"
+            }
+        ],
+        "customer": [
+            {
+                "href": "https:\/\/productforsell.com\/wp-json\/wc\/v3\/customers\/1"
+            }
+        ]
+    }
+}
+
+
+{
+    "id": 7698,
+    "parent_id": 0,
+    "status": "on-hold",
+    "currency": "BDT",
+    "version": "5.8.0",
+    "prices_include_tax": false,
+    "date_created": "2021-12-19T12:32:22",
+    "date_modified": "2021-12-19T12:32:22",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "100.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "1200.00",
+    "total_tax": "0.00",
+    "customer_id": 1,
+    "order_key": "wc_order_2NcUCVArJ01S0",
+    "billing": {
+        "first_name": "Ali",
+        "last_name": "Hasan",
+        "company": "",
+        "address_1": "Kahaloo, Bogura",
+        "address_2": "",
+        "city": "bogura",
+        "state": "BD-03",
+        "postcode": "",
+        "country": "BD",
+        "email": "mdalihasanpk@gmail.com",
+        "phone": "1234567890"
+    },
+    "shipping": {
+        "first_name": "Ali",
+        "last_name": "Hasan",
+        "company": "",
+        "address_1": "Kahaloo, Bogura",
+        "address_2": "",
+        "city": "bogura",
+        "state": "BD-03",
+        "postcode": "",
+        "country": "BD",
+        "phone": ""
+    },
+    "payment_method": "bacs",
+    "payment_method_title": "Direct bank transfer",
+    "transaction_id": "",
+    "customer_ip_address": "103.114.21.170",
+    "customer_user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.110 Safari\/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "985ebfda7a55fdc18803976289d43b43",
+    "number": "7698",
+    "meta_data": [
+        {
+            "id": 12219,
+            "key": "is_vat_exempt",
+            "value": "no"
+        },
+        {
+            "id": 12223,
+            "key": "_new_order_email_sent",
+            "value": "true"
+        }
+    ],
+    "line_items": [
+        {
+            "id": 44,
+            "name": "Trendy Winter Hoodie - Aly",
+            "product_id": 7603,
+            "variation_id": 7604,
+            "quantity": 1,
+            "tax_class": "",
+            "subtotal": "550.00",
+            "subtotal_tax": "0.00",
+            "total": "550.00",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [
+                {
+                    "id": 369,
+                    "key": "pa_select-size",
+                    "value": "xl",
+                    "display_key": "SELECT SIZE",
+                    "display_value": "XL"
+                }
+            ],
+            "sku": "629338",
+            "price": 550,
+            "parent_name": "Trendy Winter Hoodie - Aly"
+        },
+        {
+            "id": 45,
+            "name": "Trendy Winter Hoodie - Aly",
+            "product_id": 7603,
+            "variation_id": 7604,
+            "quantity": 1,
+            "tax_class": "",
+            "subtotal": "550.00",
+            "subtotal_tax": "0.00",
+            "total": "550.00",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [
+                {
+                    "id": 379,
+                    "key": "pa_select-size",
+                    "value": "l",
+                    "display_key": "SELECT SIZE",
+                    "display_value": "L"
+                }
+            ],
+            "sku": "629338",
+            "price": 550,
+            "parent_name": "Trendy Winter Hoodie - Aly"
+        }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+        {
+            "id": 46,
+            "method_title": "Sundarban Courier Service",
+            "method_id": "flat_rate",
+            "instance_id": "1",
+            "total": "100.00",
+            "total_tax": "0.00",
+            "taxes": [],
+            "meta_data": [
+                {
+                    "id": 385,
+                    "key": "Items",
+                    "value": "Trendy Winter Hoodie - Aly &times; 1, Trendy Winter Hoodie - Aly &times; 1",
+                    "display_key": "Items",
+                    "display_value": "Trendy Winter Hoodie - Aly &times; 1, Trendy Winter Hoodie - Aly &times; 1"
+                }
+            ]
+        }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-12-19T12:32:22",
+    "date_modified_gmt": "2021-12-19T12:32:22",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "currency_symbol": "\u09f3\u00a0",
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/productforsell.com\/wp-json\/wc\/v3\/orders\/7698"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/productforsell.com\/wp-json\/wc\/v3\/orders"
+            }
+        ],
+        "customer": [
+            {
+                "href": "https:\/\/productforsell.com\/wp-json\/wc\/v3\/customers\/1"
+            }
+        ]
+    }
+}

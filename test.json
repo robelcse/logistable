@@ -1,0 +1,199 @@
+{
+    "id": 7684,
+    "parent_id": 0,
+    "status": "on-hold",
+    "currency": "BDT",
+    "version": "5.8.0",
+    "prices_include_tax": false,
+    "date_created": "2021-12-13T09:36:14",
+    "date_modified": "2021-12-13T09:36:14",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "100.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "25499.00",
+    "total_tax": "0.00",
+    "customer_id": 0,
+    "order_key": "wc_order_C1obc42WFOGma",
+    "billing": {
+      "first_name": "Md.Robel",
+      "last_name": "Ahammed",
+      "company": "",
+      "address_1": "Banglamotor, Dhaka",
+      "address_2": "",
+      "city": "Bogura",
+      "state": "BD-03",
+      "postcode": "1234",
+      "country": "BD",
+      "email": "mdrobel.cse@gmail.com",
+      "phone": "+8801609883910"
+    },
+    "shipping": {
+      "first_name": "Md.Robel",
+      "last_name": "Ahammed",
+      "company": "",
+      "address_1": "Banglamotor, Dhaka",
+      "address_2": "",
+      "city": "Bogura",
+      "state": "BD-03",
+      "postcode": "1234",
+      "country": "BD",
+      "phone": ""
+    },
+    "payment_method": "bacs",
+    "payment_method_title": "Direct bank transfer",
+    "transaction_id": "",
+    "customer_ip_address": "103.114.21.170",
+    "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "8b741940b1e8704e380308bb0d1477bb",
+    "number": "7684",
+    "meta_data": [
+      {
+        "id": 11675,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 11679,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      }
+    ],
+    "line_items": [
+      {
+        "id": 10,
+        "name": "Stylish Men's Hoodie - L",
+        "product_id": 7597,
+        "variation_id": 7600,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "850.00",
+        "subtotal_tax": "0.00",
+        "total": "850.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 87,
+            "key": "pa_select-size",
+            "value": "l",
+            "display_key": "SELECT SIZE",
+            "display_value": "L"
+          }
+        ],
+        "sku": "644302",
+        "price": 850,
+        "parent_name": "Stylish Men's Hoodie"
+      },
+      {
+        "id": 11,
+        "name": "Trendy Winter Hoodie - Aly",
+        "product_id": 7603,
+        "variation_id": 7604,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "550.00",
+        "subtotal_tax": "0.00",
+        "total": "550.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 97,
+            "key": "pa_select-size",
+            "value": "m",
+            "display_key": "SELECT SIZE",
+            "display_value": "M"
+          }
+        ],
+        "sku": "629338",
+        "price": 550,
+        "parent_name": "Trendy Winter Hoodie - Aly"
+      },
+      {
+        "id": 12,
+        "name": "Poco M3 Pro 5.1G - 6GB/128GB",
+        "product_id": 7659,
+        "variation_id": 7660,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "23999.00",
+        "subtotal_tax": "0.00",
+        "total": "23999.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 107,
+            "key": "pa_variant",
+            "value": "6gb-128gb",
+            "display_key": "Variant",
+            "display_value": "6GB/128GB"
+          },
+          {
+            "id": 108,
+            "key": "pa_color",
+            "value": "cool-blue",
+            "display_key": "Color",
+            "display_value": "Cool Blue"
+          },
+          {
+            "id": 115,
+            "key": "_reduced_stock",
+            "value": "1",
+            "display_key": "_reduced_stock",
+            "display_value": "1"
+          }
+        ],
+        "sku": "123456",
+        "price": 23999,
+        "parent_name": "Poco M3 Pro 5.1G"
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 13,
+        "method_title": "Sundarban Courier Service",
+        "method_id": "flat_rate",
+        "instance_id": "1",
+        "total": "100.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 114,
+            "key": "Items",
+            "value": "Stylish Men's Hoodie - L &times; 1, Trendy Winter Hoodie - Aly &times; 1, Poco M3 Pro 5.1G - 6GB/128GB &times; 1",
+            "display_key": "Items",
+            "display_value": "Stylish Men's Hoodie - L &times; 1, Trendy Winter Hoodie - Aly &times; 1, Poco M3 Pro 5.1G - 6GB/128GB &times; 1"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2021-12-13T09:36:14",
+    "date_modified_gmt": "2021-12-13T09:36:14",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "currency_symbol": "৳ ",
+    "_links": {
+      "self": [
+        {
+          "href": "https://productforsell.com/wp-json/wc/v3/orders/7684"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://productforsell.com/wp-json/wc/v3/orders"
+        }
+      ]
+    }
+  }

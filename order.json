@@ -1,0 +1,166 @@
+{
+    "id": 7714,
+    "parent_id": 0,
+    "status": "on-hold",
+    "currency": "BDT",
+    "version": "5.8.0",
+    "prices_include_tax": false,
+    "date_created": "2022-01-04T03:36:55",
+    "date_modified": "2022-01-04T03:36:56",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "100.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "5590.00",
+    "total_tax": "0.00",
+    "customer_id": 1,
+    "order_key": "wc_order_Jkk0FmRBfQfIT",
+    "billing": {
+      "first_name": "Ali",
+      "last_name": "Hasan",
+      "company": "",
+      "address_1": "Kahaloo, Bogura",
+      "address_2": "",
+      "city": "bogura",
+      "state": "BD-03",
+      "postcode": "",
+      "country": "BD",
+      "email": "mdalihasanpk@gmail.com",
+      "phone": "1234567890"
+    },
+    "shipping": {
+      "first_name": "Jakarea",
+      "last_name": "Parvez",
+      "company": "",
+      "address_1": "Kahaloo, Bogura",
+      "address_2": "",
+      "city": "bogura",
+      "state": "BD-03",
+      "postcode": "",
+      "country": "BD",
+      "phone": ""
+    },
+    "payment_method": "bacs",
+    "payment_method_title": "Direct bank transfer",
+    "transaction_id": "",
+    "customer_ip_address": "103.114.21.170",
+    "customer_user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+    "created_via": "checkout",
+    "customer_note": "Call before deliver",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "e889c43989d9667e7848595ab12ace8e",
+    "number": "7714",
+    "meta_data": [
+      {
+        "id": 12793,
+        "key": "is_vat_exempt",
+        "value": "no"
+      },
+      {
+        "id": 12797,
+        "key": "_new_order_email_sent",
+        "value": "true"
+      }
+    ],
+    "line_items": [
+      {
+        "id": 76,
+        "name": "Xiaomi MI 10000mAh Power Bank V3",
+        "product_id": 7341,
+        "variation_id": 0,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "1390.00",
+        "subtotal_tax": "0.00",
+        "total": "1390.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [],
+        "sku": "",
+        "price": 1390,
+        "parent_name": null
+      },
+      {
+        "id": 77,
+        "name": "Xiaomi MI Power Bank 20000mAh V3 USB-C with QC3.0 18W",
+        "product_id": 7336,
+        "variation_id": 0,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "2250.00",
+        "subtotal_tax": "0.00",
+        "total": "2250.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [],
+        "sku": "",
+        "price": 2250,
+        "parent_name": null
+      },
+      {
+        "id": 78,
+        "name": "Xiaomi Redmi Power Bank 20000mAh",
+        "product_id": 7331,
+        "variation_id": 0,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "1850.00",
+        "subtotal_tax": "0.00",
+        "total": "1850.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [],
+        "sku": "",
+        "price": 1850,
+        "parent_name": null
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 79,
+        "method_title": "Sundarban Courier Service",
+        "method_id": "flat_rate",
+        "instance_id": "1",
+        "total": "100.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 641,
+            "key": "Items",
+            "value": "Xiaomi MI 10000mAh Power Bank V3 &times; 1, Xiaomi MI Power Bank 20000mAh V3 USB-C with QC3.0 18W &times; 1, Xiaomi Redmi Power Bank 20000mAh &times; 1",
+            "display_key": "Items",
+            "display_value": "Xiaomi MI 10000mAh Power Bank V3 &times; 1, Xiaomi MI Power Bank 20000mAh V3 USB-C with QC3.0 18W &times; 1, Xiaomi Redmi Power Bank 20000mAh &times; 1"
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-01-04T03:36:55",
+    "date_modified_gmt": "2022-01-04T03:36:56",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "currency_symbol": "৳ ",
+    "_links": {
+      "self": [
+        {
+          "href": "https://productforsell.com/wp-json/wc/v3/orders/7714"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://productforsell.com/wp-json/wc/v3/orders"
+        }
+      ],
+      "customer": [
+        {
+          "href": "https://productforsell.com/wp-json/wc/v3/customers/1"
+        }
+      ]
+    }
+  }
